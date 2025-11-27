@@ -20,7 +20,7 @@ Segui questi passaggi per iniziare l'installazione e la configurazione.
 Apri il terminale e clona il progetto:
 
 ```bash
-git clone [https://github.com/asprho-arkimete/Hardgotchi.git](https://github.com/asprho-arkimete/Hardgotchi.git)
+git clone https://github.com/asprho-arkimete/Hardgotchi.git
 cd Hardgotchi
 2. Configurazione dell'Ambiente Virtuale
 È fondamentale isolare le dipendenze in un ambiente virtuale (compatibile con Python 3.10):
