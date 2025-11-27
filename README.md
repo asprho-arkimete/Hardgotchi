@@ -33,6 +33,10 @@ python 3.10 -m venv VNDKey
 .\VNDKey\Scripts\activate
 # Attivazione (su Mac/Linux)
 source VNDKey/bin/activate
+
+istall le librerie:
+pip install -r requirements.txt
+
 3. Scaricamento dei Modelli
 Prima di eseguire, scarica i modelli necessari:
 
