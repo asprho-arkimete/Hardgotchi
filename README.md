@@ -33,7 +33,7 @@ python 3.10 -m venv VNDKey
 .\VNDKey\Scripts\activate
 # Attivazione (su Mac/Linux)
 source VNDKey/bin/activate
-
+per cuda 40**rtx: pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cu128
 istall le librerie:
 pip install -r requirements.txt
 
