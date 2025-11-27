@@ -1,9 +1,11 @@
 # Hardgotchi
 Markdown
 
-# 🥚 Hardgotchi: L'Evoluzione Brutale del Tamagotchi
+# ⛓️ Hardgotchi: Simulazione di Sopravvivenza Umanoide
 
-Benvenuto in **Hardgotchi**, dove la cura virtuale incontra la potenza dell'intelligenza artificiale. Non è un Tamagotchi, è una simulazione di sopravvivenza implacabile.
+Benvenuto in **Hardgotchi**, un'implacabile simulazione di cura e sopravvivenza focalizzata su un **personaggio Umanoide**. Dimentica gli animaletti digitali; qui la vita (o la morte) del tuo character è decisa dalle tue scelte.
+
+Questo progetto utilizza le reti neurali di **Stable Diffusion** e **Flux** (con **EditImage**) per generare e modificare dinamicamente il tuo personaggio in tempo reale, rendendo ogni giorno una sfida visiva.
 
 Questo progetto utilizza le reti neurali di **Stable Diffusion** e **Flux** (con **EditImage**) per generare e modificare dinamicamente il tuo personaggio Umanoide in tempo reale.
 
